@@ -45,10 +45,12 @@ a {
     padding: 0px;
 }
 
+/* This allows the links to change color when hovered */
 a:hover {
     color: black;
 }
 
+/* This allows the background image to be adjusted */
 .hero {
     height: 800px;
     width: 100%;
