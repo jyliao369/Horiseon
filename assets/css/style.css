@@ -67,7 +67,6 @@ a:hover {
     clear: both;
     width: 76%;
     margin-left: 20px;
-    margin-right: 5px;
 }
 
 .content {
@@ -109,7 +108,6 @@ p {
     flex-direction: column;
     justify-content: space-evenly;
     margin-right: 20px;
-    margin-left: 5px;
     padding: 20px;
     clear: both;
     float: right;
